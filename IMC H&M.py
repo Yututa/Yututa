@@ -1,3 +1,4 @@
+#Miguel Estrela - IPD - 09/07/22#
 continuar=('S')
 while continuar==('S'):
     altura=float(input("Digite sua altura em metros (use '.', e não ','):"))
